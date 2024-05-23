@@ -11,20 +11,20 @@
 - <b>Quantisti/Quantra Projects (AlgoTrading Bots based on the Quantisti Platform and linked to Interactive Brokers)</b>
   - [IBridgePy bridging with IBKR](https://github.com/Ashtasy/QuantistiProjects)
     
-- <b>Quantitative Screener Projects</b>
+- <b>Quantitative Stock Screener Projects</b>
   - [Equal Weight S&P500 Index Fund](https://github.com/Ashtasy/AlgoTradingProject1)
   - [Quantitative Momentum Screener V1 & V2)](https://github.com/Ashtasy/AlgoTrading2)
   - [Quantitative Value Screener V1 & V2](https://github.com/Ashtasy/AlgoTradingProject3)
     
 
-<h2>📺 Other Python Projects : </h2>
+<h2>📺 Beginner Python Projects : </h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Beginner Lever Python Projects](https://github.com/Ashtasy/PythonBeginnerProjects)
   
 
 <h2>📺 Test Notes: </h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [AWS Cloud Practicioner Level Notes](https://github.com/Ashtasy/AWSCCPNotes)
 
   
 
