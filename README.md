@@ -3,25 +3,24 @@
 <h2>👨‍💻 Quantitative Projects:</h2>
 
 - <b>QuantConnect Projects (AlgoTrading Bots and Backtesting based on the QuantConnect Platform)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [First Project](https://github.com/Ashtasy/QuantConnectProject1)
+  - [Second Project](https://github.com/Ashtasy/QuantConnectProject1/blob/main/second.py)
+  - [Third Project](https://github.com/Ashtasy/QuantConnectProject1/blob/main/third.py)
+  - [Fourth Project](https://github.com/Ashtasy/QuantConnectProject1/blob/main/fourth.py)
+  
 - <b>Quantisti/Quantra Projects (AlgoTrading Bots based on the Quantisti Platform and linked to Interactive Brokers)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [IBridgePy bridging with IBKR](https://github.com/Ashtasy/QuantistiProjects)
+    
 - <b>Quantitative Screener Projects</b>
   - [Equal Weight S&P500 Index Fund](https://github.com/Ashtasy/AlgoTradingProject1)
   - [Quantitative Momentum Screener V1 & V2)](https://github.com/Ashtasy/AlgoTrading2)
   - [Quantitative Value Screener V1 & V2](https://github.com/Ashtasy/AlgoTradingProject3)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+    
 
 <h2>📺 Other Python Projects : </h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+  
 
 <h2>📺 Test Notes: </h2>
 
