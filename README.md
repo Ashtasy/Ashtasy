@@ -1,16 +1,17 @@
 <h1>Hi, I'm Ashvak! <br/><a href="https://github.com/joshmadakor1">An Aspiring Quant Researcher</a>, <a href="www.linkedin.com/in/ashvak-kalimullakhan-4155261a9"></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Quantitative Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>QuantConnect Projects (AlgoTrading Bots and Backtesting based on the QuantConnect Platform)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Quantisti/Quantra Projects (AlgoTrading Bots based on the Quantisti Platform and linked to Interactive Brokers)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+- <b>Quantitative Screener Projects</b>
+  - [Equal Weight S&P500 Index Fund](https://github.com/Ashtasy/AlgoTradingProject1)
+  - [Quantitative Momentum Screener V1 & V2)](https://github.com/Ashtasy/AlgoTrading2)
+  - [Quantitative Value Screener V1 & V2](https://github.com/Ashtasy/AlgoTradingProject3)
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
@@ -18,9 +19,15 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 Other Python Projects : </h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+
+<h2>📺 Test Notes: </h2>
+
+- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+
+  
 
 <h2> 🤳 Connect with me:</h2>
 
