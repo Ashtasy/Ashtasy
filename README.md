@@ -20,11 +20,17 @@
 <h2>📺 Beginner Python Projects : </h2>
 
 - [Beginner Lever Python Projects](https://github.com/Ashtasy/PythonBeginnerProjects)
+
+<h2>📺 Certifications : </h2>
+
+- [AWS Certified Cloud Practitioner - CLF-C02](https://www.credly.com/badges/1bf10cdf-4927-42fe-81e0-52bf0f0a1c59/linked_in_profile)
   
 
-<h2>📺 Test Notes: </h2>
+<h2>📺 Notes: </h2>
 
-- [AWS Cloud Practicioner Level Notes](https://github.com/Ashtasy/AWSCCPNotes)
+- [AWS Certified Cloud Practitioner Level Notes](https://github.com/Ashtasy/AWSCCPNotes)
+- [SEO Notes](https://github.com/Ashtasy/SEO-Notes)
+
 
   
 
@@ -35,7 +41,7 @@
 
 
 
-[linkedin]: www.linkedin.com/in/ashvak-kalimullakhan-4155261a9
+[Linkedin](www.linkedin.com/in/ashvak-kalimullakhan-4155261a9)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
