@@ -3,10 +3,10 @@
 <h2>👨‍💻 Quantitative Projects:</h2>
 
 - <b>QuantConnect Projects (AlgoTrading Bots and Backtesting based on the QuantConnect Platform)</b>
-  - [First Project](https://github.com/Ashtasy/QuantConnectProject1)
-  - [Second Project](https://github.com/Ashtasy/QuantConnectProject1/blob/main/second.py)
-  - [Third Project](https://github.com/Ashtasy/QuantConnectProject1/blob/main/third.py)
-  - [Fourth Project](https://github.com/Ashtasy/QuantConnectProject1/blob/main/fourth.py)
+  - [Simple Long Hold Trading Algorithm](https://github.com/Ashtasy/QuantConnectProject1)
+  - [Simple Trailing Take Profit and Stop Loss Strategy](https://github.com/Ashtasy/QuantConnectProject2)
+  - [Custom SMA and 52-Week High/Low Strategy](https://github.com/Ashtasy/QuantConnectProject3)
+  - [Intraday Trading Algorithm](https://github.com/Ashtasy/QuantConnectProject4)
   
 - <b>Quantisti/Quantra Projects (AlgoTrading Bots based on the Quantisti Platform and linked to Interactive Brokers)</b>
   - [IBridgePy bridging with IBKR](https://github.com/Ashtasy/QuantistiProjects)
