@@ -15,6 +15,11 @@
   - [Equal Weight S&P500 Index Fund](https://github.com/Ashtasy/AlgoTradingProject1)
   - [Quantitative Momentum Screener V1 & V2)](https://github.com/Ashtasy/AlgoTrading2)
   - [Quantitative Value Screener V1 & V2](https://github.com/Ashtasy/AlgoTradingProject3)
+ 
+ 
+<h2> 🔭 AI Projects : </h2>
+
+- [2 AI Chatbots](https://github.com/Ashtasy/Botpress-AI-Chatbots)
     
 
 <h2> 😄 Beginner Python Projects : </h2>
