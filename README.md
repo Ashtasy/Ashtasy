@@ -19,7 +19,7 @@
  
 <h2> 🔭 AI Projects : </h2>
 
-- [2 AI Chatbots](https://github.com/Ashtasy/Botpress-AI-Chatbots)
+- [2 AI Chatbots for ThriveX](https://github.com/Ashtasy/Botpress-AI-Chatbots)
     
 
 <h2> 😄 Beginner Python Projects : </h2>
