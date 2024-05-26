@@ -1,6 +1,6 @@
 <h1>Hi, I'm Ashvak! <br/><a href="https://github.com/Ashtasy">An Aspiring Quant Researcher</a>, <a href="www.linkedin.com/in/ashvak-kalimullakhan-4155261a9"></h1>
 
-<h2> Quantitative Projects:</h2>
+<h2> ⚡ Quantitative Projects:</h2>
 
 - <b>QuantConnect Projects (AlgoTrading Bots and Backtesting based on the QuantConnect Platform)</b>
   - [Simple Long Hold Trading Algorithm](https://github.com/Ashtasy/QuantConnectProject1)
@@ -17,16 +17,16 @@
   - [Quantitative Value Screener V1 & V2](https://github.com/Ashtasy/AlgoTradingProject3)
     
 
-<h2> Beginner Python Projects : </h2>
+<h2> 😄 Beginner Python Projects : </h2>
 
 - [Beginner Lever Python Projects](https://github.com/Ashtasy/PythonBeginnerProjects)
 
-<h2> Certifications : </h2>
+<h2> 💬 Certifications : </h2>
 
 - [AWS Certified Cloud Practitioner - CLF-C02](https://www.credly.com/badges/1bf10cdf-4927-42fe-81e0-52bf0f0a1c59/linked_in_profile)
   
 
-<h2> Notes: </h2>
+<h2> 📫 Notes: </h2>
 
 - [AWS Certified Cloud Practitioner Level Notes](https://github.com/Ashtasy/AWSCCPNotes)
 - [SEO Notes](https://github.com/Ashtasy/SEO-Notes)
@@ -37,11 +37,11 @@
 <h2> 🤳 Connect with me:</h2>
 
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](www.linkedin.com/in/ashvak-kalimullakhan-4155261a9)
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://github.com/Ashtasy/connectwithme)
 
 
 
-[Linkedin](www.linkedin.com/in/ashvak-kalimullakhan-4155261a9)
+[Linkedin](https://github.com/Ashtasy/connectwithme)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
